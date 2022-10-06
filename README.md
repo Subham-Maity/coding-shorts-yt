@@ -2,6 +2,7 @@ Short List
 ==========
 - [**Coding Challenge 1 - Java Coder**](#coding-challenge-1---java-coder)
 - [**Coding Challenge 2 - Python & Java Coder**](#coding-challenge-2---python--java-coder)
+- [**4 Swapping Techniques**](#4-swapping-techniques)
 ___________
 
 ## Coding Challenge 1 - Java Coder
